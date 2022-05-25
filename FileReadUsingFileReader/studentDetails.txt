@@ -1,0 +1,3 @@
+Name:  kowlutla	Age:  19	Collage:  rgukt
+Name:  hari	Age:  24	Collage:  nethaji
+Name:  deepu	Age:  19	Collage:  APIIIT
